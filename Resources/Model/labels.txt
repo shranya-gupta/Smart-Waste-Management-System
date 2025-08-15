@@ -1,0 +1,10 @@
+0 Newspaper
+1 Plastic
+2 Paper
+3 Metal
+4 Glass
+5 Bandaid
+6 Battery
+7 Pen
+8 Thermometer
+9 Toothbrush
